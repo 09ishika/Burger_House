@@ -23,7 +23,7 @@
   .slide img {
     margin-top: 10px;
     width: 200%;
-    height: 105%;
+    height: fit-content;
     
     object-fit: fill;
   }
