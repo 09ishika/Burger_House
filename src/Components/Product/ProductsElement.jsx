@@ -79,6 +79,7 @@ margin-top:1rem;
 font-size: 0.8rem;
 padding: 0.8rem 3.2rem;
 border-radius: 8px;
+box-shadow:0 8px 16px 0 rgba(255, 103, 2, 0.336), 0 8px 20px 0 rgba(255, 103, 2, 0.336) ;
 background: #e31837;
 color: #fff;
 transition:0.2 ease-out;
