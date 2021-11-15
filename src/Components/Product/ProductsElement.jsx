@@ -85,9 +85,11 @@ color: #fff;
 transition:0.2 ease-out;
 
 &:hover{
-    background: #ffc500;
-    transition:0.5s ease-out;
-    color: #3d2514;
-    cursor:pointer;
-    }
-   `
+    background:#ffc500;
+    transition: 0.2s ease-out ;
+    cursor:pointer; 
+    color: #000;
+    border: 2px solid #3d2514;
+}
+`;
+
